@@ -17,6 +17,8 @@ The core application is useful for custom-built applications/websites that might
 
 If you maximze the scale and size of the blur, you'll look like a minecraft character lol(see below).
 
+---
+
 ### Normal Size
 ![Normal Size Blur](NormalSize.png)
 
