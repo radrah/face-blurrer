@@ -15,11 +15,11 @@ Blurs your face on camera - small, fun browser project.
 This web project allows you to blur your face. It includes a slider to increase and decrease the scale of the  blur and the size of the blur.
 The core application is useful for custom-built applications/websites that might want to add the functionality to blur the users face.
 
-If you maximze the scale and size of the blur, you'll look like a minecraft character lol(see below).
+If you maximze the scale and size of the blur, you'll look like a minecraft character 😂(see below).
 
 ---
 
-### Normal Size
+### Normal Size 😂
 ![Normal Size Blur](NormalSize.png)
 
 
