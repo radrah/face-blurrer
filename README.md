@@ -9,3 +9,5 @@ Blurs your face on camera - small, fun browser project
 4. Or Open the file on a browser(local).
 5. Allow camera access to the browser.
 6. The face on camera should be blurred.
+
+## Functionalities
