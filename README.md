@@ -21,5 +21,5 @@ If you maximze the scale and size of the blur, you'll look like a minecraft char
 ![Normal Size Blur](NormalSize.png)
 
 
-## Enlarged Size
+### Enlarged Size
 ![Enlarged Size Blur](EnlargedSize.png)
