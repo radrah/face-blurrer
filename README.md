@@ -1,15 +1,6 @@
 # face-blurrer
 Blurs your face on camera - small, fun browser project.
 
-## Steps to get it working
-
-1. Clone Repo/Download files.
-2. (Download &)Run npm install on the terminal.
-3. Run ```parcel filename.html```
-4. Or Open the file on a browser(local).
-5. Allow camera access to the browser.
-6. The face on camera should be blurred.
-
 ## Functionalities
 
 This web project allows you to blur your face. It includes a slider to increase and decrease the scale of the  blur and the size of the blur.
@@ -25,3 +16,12 @@ If you maximze the scale and size of the blur, you'll look like a minecraft char
 
 ### Enlarged Size
 ![Enlarged Size Blur](EnlargedSize.png)
+
+## Steps to get it working
+
+1. Clone Repo/Download files.
+2. (Download &)Run npm install on the terminal.
+3. Run ```parcel filename.html```
+4. Or Open the file on a browser(local).
+5. Allow camera access to the browser.
+6. The face on camera should be blurred.
